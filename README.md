@@ -2,8 +2,9 @@
   <img src="https://img.waite.wang/images/2022/06/22/1640011365736.jpg" width="100"/>
 </div>
 
-
-<img src="https://komarev.com/ghpvc/?username=waite0603&style=flat-square&color=blue" alt=""/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=waite0603&style=flat-square&color=blue" alt=""/>
+</div>
 
 
 ---
@@ -21,10 +22,12 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 - :mailbox:How to reach me: waite0603@qq.com
 
 
+---
+
 
 ### 👋 My Stats 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waite0603)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=waite0603&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waite0603&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
