@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://img.waite.wang/images/2022/10/16/1640011365736.png" width="100"/>
+  <img src="https://img.waite.wang/images/2022/11/05/1640011365736-small.jpg" width="100"/>
 </div>
 
 <div align="center">
