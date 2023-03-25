@@ -36,7 +36,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 132.9 kB Used in GitHub's Storage 
+> 📦 132.8 kB Used in GitHub's Storage 
  > 
 > 🏆 96 Contributions in the Year 2023
  > 
@@ -73,10 +73,10 @@ Sunday                   16 commits          ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        15 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  15 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 **I Mostly Code in Python** 
