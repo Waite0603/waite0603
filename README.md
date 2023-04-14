@@ -122,6 +122,11 @@ Vue                      2 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ---
 
 
+### Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
