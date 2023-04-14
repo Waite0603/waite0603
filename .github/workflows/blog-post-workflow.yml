@@ -3,6 +3,7 @@ on:
   schedule:
     # 定时器配置
     - cron: "0 * * * *"
+  workflow_dispatch:
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
