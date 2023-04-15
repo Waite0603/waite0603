@@ -4,12 +4,9 @@ on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
-  push:
-    branches:
-      - master
 
 jobs:
-  update-social:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: zylele/social-readme@master
@@ -18,4 +15,4 @@ jobs:
           blog_limit: 5 # blog数量
           douban_name: sunguoqi
           douban_limit: 5 # 豆瓣最新动态数量
-          douban_name: your douban username
+          commit_message: Updated social rss by social-readme # commit说明
