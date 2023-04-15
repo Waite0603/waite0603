@@ -16,4 +16,6 @@ jobs:
         with:
           blog_rss_link: https://waite.wang/rss.xml
           blog_limit: 5 # blog数量
+          douban_name: sunguoqi
+          douban_limit: 5 # 豆瓣最新动态数量
           douban_name: your douban username
