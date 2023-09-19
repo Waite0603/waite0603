@@ -4,6 +4,12 @@
 </div>
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 
 <div align="center">
   <a href="mailto:waite@waite.wang"><img src="https://img.shields.io/badge/Email-我的邮箱-purple"></a>&emsp;
@@ -23,7 +29,7 @@
 - 👯 I’m looking to collaborate on coding and projects ...
 - 🤔 I’m looking for some big shots to help me get promoted ...
 - 💬 Ask me about my classmate and friends!
-- 📫 How to reach me: QQ -> 1657724340 / Web -> [waite.wang](waite.wang)
+- 📫 How to reach me: QQ -> 1657724340 / Web -> [waite.wang](https://waite.wang/)
 
 
 ---
