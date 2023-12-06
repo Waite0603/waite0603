@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on coding and projects ...
 - 🤔 I’m looking for some big shots to help me get promoted ...
 - 💬 Ask me about my classmate and friends!
-- 📫 How to reach me: QQ -> 1657724340 / Web -> [waite.wang](https://waite.wang/)
+- 📫 How to reach me: QQ -> 1657724340 / Email -> [waite@waite.wang](mailto:waite@waite.wang)
 
 
 ---
