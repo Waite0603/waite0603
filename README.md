@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="mailto:waite@waite.wang"><img src="https://img.shields.io/badge/Email-我的邮箱-purple"></a>&emsp;
+  <a href="mailto:waite@waite.wang?subject=Contact via Waite.RS"><img src="https://img.shields.io/badge/Email-我的邮箱-purple"></a>&emsp;
   <img src="https://komarev.com/ghpvc/?username=waite0603&style=flat-square&color=blue" alt=""/>&emsp;
   <a href="https://waite.wang/"><img src="https://img.shields.io/badge/Blog-我的博客-purple"></a>
 
@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on coding and projects ...
 - 🤔 I’m looking for some big shots to help me get promoted ...
 - 💬 Ask me about my classmate and friends!
-- 📫 How to reach me: QQ -> 1657724340 / Email -> [waite@waite.wang](mailto:waite@waite.wang)
+- 📫 How to reach me: QQ -> 1657724340 / Email -> <a href="mailto:waite@waite.wang?subject=Contact via Waite.RS">waite@waite.wang</a>
 
 
 ---
