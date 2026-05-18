@@ -10,8 +10,8 @@
 ### :woman_technologist: About Me :
 
 - 🔭 I am a full-stack worker from Guangdong, China
-- ✨ I'm good at using Vue.js, UniApp, MiniPro and Sth of Python.
-- 🌱 I’m currently learning React, ArkTS, LLM ...
+- ✨ I'm good at using Vue.js, UniApp, MiniPro and Python server.
+- 🌱 I’m currently learning AI about.
 - 👯 I’m looking to collaborate on coding and projects ...
 - 🤔 I’m looking for some big shots to help me get promoted ...
 - 💬 Ask me about my classmate and friends!
